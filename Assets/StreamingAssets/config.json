@@ -1,0 +1,9 @@
+{
+  "folderPath": "C:\Users\victorius.hermawan\Downloads\assetAquascape\",
+  "fishMinSpeed": 1,
+  "fishMaxSpeed": 2,
+  "hungerCooldown": 10,
+  "trashSpawnIntervalMin": 5,
+  "trashSpawnIntervalMax": 15,
+  "foodLifetime": 10
+}
