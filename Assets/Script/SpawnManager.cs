@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections;
 
 
-[SerializeField]
+[System.Serializable]
 public class SpawnedObject
 {
     public Vector3 position;
