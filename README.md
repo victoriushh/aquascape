@@ -1,4 +1,4 @@
-# aquascape
+# Aquascape
 Game simulasi akuarium berbasis Unity di mana pemain mengelola ekosistem ikan secara real time. Game ini menggunakan AI untuk penulisan code dari ChatGPT untuk sistem spawn berbasis file dan konfigurasi gameplay yang bisa diubah tanpa harus rebuild. 
 
 Cara membuka game : 
